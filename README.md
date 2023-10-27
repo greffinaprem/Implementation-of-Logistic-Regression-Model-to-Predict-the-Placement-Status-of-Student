@@ -92,41 +92,50 @@ clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 
-![268977157-de5d941c-4023-486a-b111-5e4e47c9fb7c-1](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/ee855738-1895-4fdc-8efb-c243eeb2c92b)
+1. Placement data
+   
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/55e25998-74d0-46da-a0ae-8dd167456d14)
 
+2. Salary data
 
-![268977550-f4923b8e-3e29-4f8a-91b8-a62d75241216-1](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/52e76697-3c26-45ab-b162-40e927728a46)
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/6f0a68f7-b3a5-47a8-847f-3de62afcdb21)
 
+3. Checking the null function()
 
-![268977806-681f2e45-11f3-436e-b280-eaebf3af1ddc](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/2afc5f1e-2da1-41dc-834a-7c9097ba76e2)
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/2453e526-eb31-4c71-bf42-d57c2ab08aa3)
 
+4. Data duplicate
 
-![268978309-7c33b7d4-ed7a-457a-a0e0-42343e748bf1](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/2788cd59-b3fa-4816-9377-7adb032ba10e)
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/64196b82-c1e4-4ac6-b7ea-95ecc21f3370)
 
+5. Print data
 
-![268978738-5559febb-524c-48b1-8866-c408c1bb5b6a](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/48e187fd-00f3-4467-8233-ca803f235255)
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/1631f2f4-7419-42de-8f2c-3fc616b5067d)
 
+6. Data status 
 
-![268979289-e6d0ce35-6e55-4eef-b11c-aeebb1356bc9](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/17e577c1-c4be-4a19-bae4-f1922d600bab)
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/0b78d472-d532-4bde-bc98-b7100496cad9)
 
+7. y_prediction array
 
-![268979573-fceb1521-b73b-4ae8-a975-b34cc4a69914](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/4bd60717-57f4-44ed-8d6d-b6dcb62a6c27)
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/a7d998e9-d28f-4c4e-90c8-33c2ed0d2cc3)
 
+8. Accuracy value
 
-![268990921-8bc1429a-e26d-4dc4-a6b0-ad61d2a1a8dd](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/aee0a765-a97f-4c1e-b21c-796799f62460)
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/c88bc71e-01cd-4736-8ecb-ffca90bc2ff8)
 
+9. Confusion matrix
 
-![268982234-01c5a594-2c55-44bb-ac56-5f8b464ddb24](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/e5afb98a-1b07-4fd4-85bd-ebb155d66d0d)
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/72dbfe36-9c21-4166-a2b1-a06bcf4a2c6d)
 
+10. Classification report
 
-![268979982-c7ca28c2-5fa8-4819-a134-944b07073f3c](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/0c34f960-6d41-4812-92c8-60eb6e73b31d)
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/ed04478f-a0d8-42c4-a5e4-323df0910740)
 
+11. Prediction of LR
 
-![268987729-2d5cf1df-5666-40cb-a08c-e1551da7c517](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/307affb6-f9d4-40c7-89e1-a33629e34f4e)
-
-
+   ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/3b41928e-1a8c-4c60-abe0-d31df21c3b25)
 
 
 ## Result:
