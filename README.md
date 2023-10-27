@@ -101,6 +101,8 @@ clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 
    ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/6f0a68f7-b3a5-47a8-847f-3de62afcdb21)
 
+
+
 3. Checking the null function()
 
    ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/2453e526-eb31-4c71-bf42-d57c2ab08aa3)
@@ -112,6 +114,8 @@ clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 5. Print data
 
    ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/1631f2f4-7419-42de-8f2c-3fc616b5067d)
+
+
 
 6. Data status 
 
@@ -132,6 +136,9 @@ clf.predict([[0, 87, 0, 95, 0, 2, 78, 2, 0]])
 10. Classification report
 
    ![image](https://github.com/greffinaprem/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119475603/ed04478f-a0d8-42c4-a5e4-323df0910740)
+
+
+
 
 11. Prediction of LR
 
